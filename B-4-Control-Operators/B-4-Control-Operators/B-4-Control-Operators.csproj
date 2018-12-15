@@ -43,6 +43,31 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="B4-P1-25If_TimeOfDayGreeting.cs" />
+    <Compile Include="B4-P10-25For_HelloWorld.cs" />
+    <Compile Include="B4-P11-25For_Afrochildren.cs" />
+    <Compile Include="B4-P12-25For_Minus10OddEven.cs" />
+    <Compile Include="B4-P13-25For_LettersCount.cs" />
+    <Compile Include="B4-P14-25For_AlphabetBack.cs" />
+    <Compile Include="B4-P15-25While_OddEventNumber.cs" />
+    <Compile Include="B4-P16-25DoWhile_OddEventNumber.cs" />
+    <Compile Include="B4-P17-25While_HelloWorld.cs" />
+    <Compile Include="B4-P18-25While_Multiplier.cs" />
+    <Compile Include="B4-P19-25While_SolveNumberAdding.cs" />
+    <Compile Include="B4-P2-25If_NumbersComparing.cs" />
+    <Compile Include="B4-P20-25While_DiceGame.cs" />
+    <Compile Include="B4-P21-25While_DiceGameMultiplePlayers.cs" />
+    <Compile Include="B4-P22-25While_Akinator100Numbers.cs" />
+    <Compile Include="B4-P23-25IfElse_Calculator.cs" />
+    <Compile Include="B4-P24-25Switch_Calculator.cs" />
+    <Compile Include="B4-P25-25Cycle_WordRevercse.cs" />
+    <Compile Include="B4-P3-25If_PositiveNumbersComparing.cs" />
+    <Compile Include="B4-P4-25If_Akinator5Numbers.cs" />
+    <Compile Include="B4-P6-25Switch_GameNavigation.cs" />
+    <Compile Include="B4-P7-25For_10OddEven.cs" />
+    <Compile Include="B4-P8-25For_3DevideNumbers.cs" />
+    <Compile Include="B4-P9-25For_Matrix10x10.cs" />
+    <Compile Include="B4_P5_25_Switch_DayOfWeek.cs" />
     <Compile Include="Lesson.cs" />
     <Compile Include="Practice.cs" />
     <Compile Include="Program.cs" />
