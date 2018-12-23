@@ -27,7 +27,7 @@ namespace Basic.Lesson_4._1
             //B4_P2_25If_NumbersComparing.If_NumbersComparing();
             //B4_P20_25While_DiceGame.While_DiceGame();
             //B4_P21_25While_DiceGameMultiplePlayers.While_DiceGameMultiplePlayers();
-            //B4_P22_25While_Akinator100Numbers.While_Akinator100Numbers();
+            B4_P22_25While_Akinator100Numbers.While_Akinator100Numbers();
             //B4_P23_25IfElse_Calculator.IfElse_Calculator();
             //B4_P24_25Switch_Calculator.Switch_Calculator();
             //B4_P25_25Cycle_WordRevercse.Cycle_WordRevercse();

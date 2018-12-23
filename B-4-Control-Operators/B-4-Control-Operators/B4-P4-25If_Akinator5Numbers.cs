@@ -18,7 +18,7 @@ namespace Basic.Lesson_4._1
                 Console.WriteLine("Ваше число >2? (True/False)");
                 bool answer_2 = Boolean.Parse(Console.ReadLine());
                 if (answer_2)
-                    Console.WriteLine("Ваше число 6");
+                    Console.WriteLine("Ваше число 5");
                 else
                     Console.WriteLine("Ваше число 2");
             }
