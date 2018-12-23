@@ -1,0 +1,7 @@
+D:\Projects\Practice\B-4-Control-Operators\B-4-Control-Operators\bin\Debug\Basic.Lesson_4._1.exe.config
+D:\Projects\Practice\B-4-Control-Operators\B-4-Control-Operators\bin\Debug\Basic.Lesson_4._1.exe
+D:\Projects\Practice\B-4-Control-Operators\B-4-Control-Operators\bin\Debug\Basic.Lesson_4._1.pdb
+D:\Projects\Practice\B-4-Control-Operators\B-4-Control-Operators\obj\Debug\B-4-Control-Operators.csprojAssemblyReference.cache
+D:\Projects\Practice\B-4-Control-Operators\B-4-Control-Operators\obj\Debug\B-4-Control-Operators.csproj.CoreCompileInputs.cache
+D:\Projects\Practice\B-4-Control-Operators\B-4-Control-Operators\obj\Debug\Basic.Lesson_4._1.exe
+D:\Projects\Practice\B-4-Control-Operators\B-4-Control-Operators\obj\Debug\Basic.Lesson_4._1.pdb

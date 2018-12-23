@@ -9,6 +9,32 @@ namespace Basic.Lesson_4._1
 {
     partial class Practice
     {
+
+        public static void Addition()
+        {
+            Console.Write("Enter the first number: ");
+            var number_1 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter the second number: ");
+            var number_2 = Convert.ToInt32(Console.ReadLine());
+            var sum = number_1 + number_2;
+            bool correct = false;
+            while (!correct)
+            {
+                    Console.Write("Enter the sum of numbers: ");
+                    var result = Convert.ToInt32(Console.ReadLine());
+                    if (result == sum)
+                    {
+                        Console.WriteLine("True");
+                        correct = true;
+                    }
+                    else
+                    {
+                        Console.WriteLine("False");
+                    }
+                
+            }
+
+        }   
         //B4-P1/25. If_TimeOfDayGreeting
         public static void B4_P1_25_If_TimeOfDayGreeting()
         {
@@ -30,16 +56,8 @@ namespace Basic.Lesson_4._1
             
         }
 
-        //B4-P5/25. Switch_DayOfWeek
-        public static void B4_P5_25_Switch_DayOfWeek()
-        {
-        }
-
         //B4-P6/25. Switch_GameNavigation
-        public static void B4_P6_25_Switch_GameNavigation()
-        {
-            
-        }
+       
 
         //B4-P7/25. For_10OddEven
         public static void B4_P7_25_For_10OddEven()
